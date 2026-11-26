@@ -6,7 +6,7 @@ A collection of my SQL projects: database design, data loading, and business ana
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 01 | [Grocery Store Management](./01-grocery-store-management) | Normalized 7-table grocery store database with analysis of customers, products, sales trends, suppliers and employees | MySQL 8.0, Workbench |
+| 01 | [Grocery Store Management](./Grocery-Store-Management) | Normalized 7-table grocery store database with analysis of customers, products, sales trends, suppliers and employees | MySQL 8.0, Workbench |
 
 More projects coming soon.
 
