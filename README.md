@@ -17,7 +17,7 @@ Database design · ER modeling · Joins · Subqueries · Aggregations · Date fu
 ## About
 
 **Shailesh Pawar** — Data Science graduate (BE Computer Engineering, SPPU) based in Pune.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shaileshpawar-cse/).
 
 ## Repo Layout
 
